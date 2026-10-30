@@ -1,28 +1,28 @@
 {
-  "offset": 660287712,
+  "offset": 660287714,
   "last_morning": "2026-10-30",
   "interested": [],
   "last_report": [
     {
-      "name": "BLS Polymers",
-      "close_date": "2026-10-29",
-      "verdict": "NEUTRAL"
-    },
-    {
-      "name": "SFC Environmental Technologies",
-      "close_date": "2026-10-29",
-      "verdict": "NEUTRAL"
-    },
-    {
-      "name": "M.K.Sons Fine Jewels",
+      "name": "M. K. Sons Fine Jewels Limited",
       "close_date": "2026-10-30",
       "verdict": "NEUTRAL"
     },
     {
-      "name": "Bombay Coated & Special Steels",
+      "name": "OLA Electric Mobility Ltd",
+      "close_date": "2026-10-30",
+      "verdict": "NEUTRAL"
+    },
+    {
+      "name": "Continental Controls Ltd",
+      "close_date": "2026-10-30",
+      "verdict": "NEUTRAL"
+    },
+    {
+      "name": "Bombay Coated and Special Steels",
       "close_date": "2026-11-02",
       "verdict": "NEUTRAL"
     }
   ],
-  "report_id": "292157"
+  "report_id": "301607"
 }
